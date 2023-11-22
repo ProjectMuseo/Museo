@@ -71,6 +71,12 @@
    </tr>
 </table>
 
+
+
+https://github.com/ProjectMuseo/Museo/assets/81506621/146f8dab-d80b-45a5-9cae-6be5d2e31e6c
+
+
+
 ## INTRODUCE MUSEO
 <details>
     <summary>와이어프레임</summary>
